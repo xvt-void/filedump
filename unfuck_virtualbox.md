@@ -1,5 +1,5 @@
 ```cmd
-bcdedit /set hypervisorlaucnhytpe off
+bcdedit /set hypervisorlaunchtype off
 ```
 
 ```
