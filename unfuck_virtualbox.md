@@ -1,3 +1,5 @@
+unfuck virtualbox -> disable hyper-v
+
 ```cmd
 bcdedit /set hypervisorlaunchtype off
 ```
